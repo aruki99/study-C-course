@@ -1,0 +1,28 @@
+﻿生成启动时间为 2020/6/11 21:21:31。
+     1>项目“D:\文档\Visual Studio 2010\Projects\喻嘉兴D\喻嘉兴D\喻嘉兴D.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\喻嘉兴D.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         d:\vs2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\喻嘉兴D.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "喻嘉兴D.cpp"
+         喻嘉兴D.cpp
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         d:\vs2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\文档\Visual Studio 2010\Projects\喻嘉兴D\Debug\喻嘉兴D.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\喻嘉兴D.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\文档\Visual Studio 2010\Projects\喻嘉兴D\Debug\喻嘉兴D.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\文档\Visual Studio 2010\Projects\喻嘉兴D\Debug\喻嘉兴D.lib" /MACHINE:X86 "Debug\喻嘉兴D.exe.embed.manifest.res"
+         Debug\stdafx.obj
+         "Debug\喻嘉兴D.obj"
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\喻嘉兴D.exe.embed.manifest" /manifest "Debug\喻嘉兴D.exe.intermediate.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         喻嘉兴D.vcxproj -> D:\文档\Visual Studio 2010\Projects\喻嘉兴D\Debug\喻嘉兴D.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\喻嘉兴D.unsuccessfulbuild”。
+         正在对“Debug\喻嘉兴D.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\文档\Visual Studio 2010\Projects\喻嘉兴D\喻嘉兴D\喻嘉兴D.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.51
